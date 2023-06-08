@@ -1,0 +1,14 @@
+C:\Users\AlShaheen\source\repos\To do tasks\To do tasks\bin\Debug\net6.0\To do tasks.exe
+C:\Users\AlShaheen\source\repos\To do tasks\To do tasks\bin\Debug\net6.0\To do tasks.deps.json
+C:\Users\AlShaheen\source\repos\To do tasks\To do tasks\bin\Debug\net6.0\To do tasks.runtimeconfig.json
+C:\Users\AlShaheen\source\repos\To do tasks\To do tasks\bin\Debug\net6.0\To do tasks.dll
+C:\Users\AlShaheen\source\repos\To do tasks\To do tasks\bin\Debug\net6.0\ref\To do tasks.dll
+C:\Users\AlShaheen\source\repos\To do tasks\To do tasks\bin\Debug\net6.0\To do tasks.pdb
+C:\Users\AlShaheen\source\repos\To do tasks\To do tasks\obj\Debug\net6.0\To do tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlShaheen\source\repos\To do tasks\To do tasks\obj\Debug\net6.0\To do tasks.AssemblyInfoInputs.cache
+C:\Users\AlShaheen\source\repos\To do tasks\To do tasks\obj\Debug\net6.0\To do tasks.AssemblyInfo.cs
+C:\Users\AlShaheen\source\repos\To do tasks\To do tasks\obj\Debug\net6.0\To do tasks.csproj.CoreCompileInputs.cache
+C:\Users\AlShaheen\source\repos\To do tasks\To do tasks\obj\Debug\net6.0\To do tasks.dll
+C:\Users\AlShaheen\source\repos\To do tasks\To do tasks\obj\Debug\net6.0\ref\To do tasks.dll
+C:\Users\AlShaheen\source\repos\To do tasks\To do tasks\obj\Debug\net6.0\To do tasks.pdb
+C:\Users\AlShaheen\source\repos\To do tasks\To do tasks\obj\Debug\net6.0\To do tasks.genruntimeconfig.cache
